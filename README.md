@@ -13,8 +13,6 @@ I'm **Amarjit Singh**, an IT Specialist, Power BI Developer and Analyst with exp
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/amarjitscom/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/amarjitscom/repos)](https://githubtrends.io)
 
-https://api.githubtrends.io/user/svg/amarjitscom/langs?time_range=one_year&compact=True&theme=classic
-
 ---
 
 ## 🔧 Technologies & Tools  
