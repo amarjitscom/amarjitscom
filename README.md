@@ -1,6 +1,6 @@
 # 💻 Hi! 
 
-## I'm *Amarjit Singh*, an IT Specialist, Power BI Developer and Analyst with expertise in software development automation and analytics. I work closely with GTM, Sales, and Client Delivery teams to provide data-driven solutions and technical support.
+I'm **Amarjit Singh**, an IT Specialist, Power BI Developer and Analyst with expertise in software development automation and analytics. I work closely with GTM, Sales, and Client Delivery teams to provide data-driven solutions and technical support.
 
 ---
 
@@ -31,9 +31,9 @@
 ---
 
 ## 🌎 Connect with Me  
-📧 **Email:** [info@softhutonline.com]  
-🔗 **Website:** [softhutonline.com]  
-💼 **LinkedIn:** [linkedin.com/in/amarjitsinghajs]  
+📧 **Email:** info@softhutonline.com
+🔗 **Website:** softhutonline.com 
+💼 **LinkedIn:** linkedin.com/in/amarjitsinghajs
 
 ---
 
