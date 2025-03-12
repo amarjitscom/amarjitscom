@@ -21,6 +21,13 @@ I'm **Amarjit Singh**, an IT Specialist, Power BI Developer and Analyst with exp
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
 ---
+## GitHub Stats
+
+![Amarjit Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarjitscom&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amarjitscom&layout=compact&theme=radical)
 
 ## 📊 Projects & Work  
 🚀 **Currently working on:**  
